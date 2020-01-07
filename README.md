@@ -1,1 +1,1 @@
-This is dredge's first git project!
+This is nchchow's first git project!
